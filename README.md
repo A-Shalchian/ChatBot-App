@@ -70,6 +70,3 @@ If you really wanted to deploy the app on a platform like vercel, follow these s
 
 2. Deploy the app:
    vercel
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
